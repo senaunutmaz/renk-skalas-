@@ -1,0 +1,8 @@
+{
+  "name": "ChromaWardrobe - Cilt Tonu & Haftalık Kıyafet Stilisti",
+  "description": "Cilt tonunuza ve mevsimsel renk analizinize göre gardırobunuzu dijitalleştirin; pahalı stilistlere gerek kalmadan profesyonel renk uyumlu haftalık kıyafet kombinlerinizi otomatik oluşturun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
